@@ -19,7 +19,7 @@ Tenho 17 anos e sou um entusiasta apaixonado por tecnologia e inovação. Minha 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Conhecimentos Técnicos (Hardware/Industrial):**
+**Conhecimentos (Hardware/Industrial):**
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Industrial Automation](https://img.shields.io/badge/Industrial%20Automation-FF6600?style=for-the-badge&logo=codewars&logoColor=white)
 
