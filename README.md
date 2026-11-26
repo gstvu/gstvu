@@ -1,9 +1,9 @@
-# Olá, eu sou o Gustavo! 👽
+# Olá, eu sou o Gustavo! 
 
 ### 🚀 Sobre mim
 Tenho 17 anos e sou um entusiasta apaixonado por tecnologia e inovação. Minha jornada começou no **SENAI de Luzerna/SC**, onde construí uma base sólida em hardware e processos industriais, e hoje foco meus estudos no desenvolvimento de soluções digitais.
 
-- 🎓 Atualmente cursando **Técnico em Desenvolvimento de Sistemas** (SENAI).
+- 🎓 Atualmente cursando **Técnico em Desenvolvimento de Sistemas** (SENAI) 2/4.
 - 🛠️ Aprendizagem em: **Automação Industrial**, **Informática** e **Eletricista Industrial**.
 - 💡 Busco constantemente aprender novas linguagens e frameworks para me destacar no mercado de TI.
 - 🎯 Objetivo: Unir meu conhecimento técnico em processos industriais com o poder do desenvolvimento de software.
@@ -18,10 +18,6 @@ Tenho 17 anos e sou um entusiasta apaixonado por tecnologia e inovação. Minha 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Conhecimentos (Hardware/Industrial):**
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Industrial Automation](https://img.shields.io/badge/Industrial%20Automation-FF6600?style=for-the-badge&logo=codewars&logoColor=white)
 
 ---
 
